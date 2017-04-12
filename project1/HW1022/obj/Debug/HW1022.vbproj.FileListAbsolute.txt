@@ -1,0 +1,10 @@
+C:\Users\anas\Desktop\CS540\HW1022\HW1022\bin\Debug\HW1022.exe.config
+C:\Users\anas\Desktop\CS540\HW1022\HW1022\bin\Debug\HW1022.exe
+C:\Users\anas\Desktop\CS540\HW1022\HW1022\bin\Debug\HW1022.pdb
+C:\Users\anas\Desktop\CS540\HW1022\HW1022\bin\Debug\HW1022.xml
+C:\Users\anas\Desktop\CS540\HW1022\HW1022\obj\Debug\HW1022.Homework_10.Form1.resources
+C:\Users\anas\Desktop\CS540\HW1022\HW1022\obj\Debug\HW1022.Resources.resources
+C:\Users\anas\Desktop\CS540\HW1022\HW1022\obj\Debug\HW1022.vbproj.GenerateResource.Cache
+C:\Users\anas\Desktop\CS540\HW1022\HW1022\obj\Debug\HW1022.exe
+C:\Users\anas\Desktop\CS540\HW1022\HW1022\obj\Debug\HW1022.xml
+C:\Users\anas\Desktop\CS540\HW1022\HW1022\obj\Debug\HW1022.pdb

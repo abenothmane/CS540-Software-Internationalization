@@ -1,0 +1,51 @@
+C:\Documents and Settings\TSInstructor\Desktop\CS 540 HINTS number formt\obj\Debug\number formatting example.exe
+C:\Documents and Settings\TSInstructor\Desktop\CS 540 HINTS number formt\obj\Debug\number formatting example.pdb
+C:\Documents and Settings\TSInstructor\Desktop\CS 540 HINTS number formats\obj\Debug\number formatting example.exe
+C:\Documents and Settings\TSInstructor\Desktop\CS 540 HINTS number formats\obj\Debug\number formatting example.pdb
+F:\MISC TO FILE\CS 540 HINTS number formats\obj\Debug\number formatting example.exe
+F:\MISC TO FILE\CS 540 HINTS number formats\obj\Debug\number formatting example.pdb
+F:\MISC TO FILE\CS 540 HINTS number formats\bin\number formatting example.exe
+F:\MISC TO FILE\CS 540 HINTS number formats\bin\number formatting example.pdb
+F:\MISC TO FILE\CS 540 HINTS number formats\bin\number formatting example.xml
+F:\MISC TO FILE\CS 540 HINTS number formats\obj\Debug\ResolveAssemblyReference.cache
+F:\MISC TO FILE\CS 540 HINTS number formats\obj\Debug\number_formatting_example.Form1.resources
+F:\MISC TO FILE\CS 540 HINTS number formats\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\MISC TO FILE\CS 540 HINTS number formats\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\MISC TO FILE\CS 540 HINTS number formats\obj\Debug\number formatting example.xml
+C:\SDSU\CS\CS COURSES\CS 540\SDSU CS 540 SPRING 2016\CS 540 MISC TO FILE\CS 540 XMISC TO FILE\CS 540 HINTS number formats\obj\Debug\number formatting example.exe
+C:\SDSU\CS\CS COURSES\CS 540\SDSU CS 540 SPRING 2016\CS 540 MISC TO FILE\CS 540 XMISC TO FILE\CS 540 HINTS number formats\obj\Debug\number formatting example.xml
+C:\SDSU\CS\CS COURSES\CS 540\SDSU CS 540 SPRING 2016\CS 540 MISC TO FILE\CS 540 XMISC TO FILE\CS 540 HINTS number formats\obj\Debug\number formatting example.pdb
+C:\SDSU\CS\CS COURSES\CS 540\SDSU CS 540 SPRING 2016\CS 540 MISC TO FILE\CS 540 XMISC TO FILE\CS 540 HINTS number formats\bin\number formatting example.exe
+C:\SDSU\CS\CS COURSES\CS 540\SDSU CS 540 SPRING 2016\CS 540 MISC TO FILE\CS 540 XMISC TO FILE\CS 540 HINTS number formats\bin\number formatting example.pdb
+C:\SDSU\CS\CS COURSES\CS 540\SDSU CS 540 SPRING 2016\CS 540 MISC TO FILE\CS 540 XMISC TO FILE\CS 540 HINTS number formats\bin\number formatting example.xml
+C:\SDSU\CS\CS COURSES\CS 540\SDSU CS 540 SPRING 2016\CS 540 MISC TO FILE\CS 540 XMISC TO FILE\CS 540 HINTS number formats\obj\Debug\number_formatting_example.Form1.resources
+C:\SDSU\CS\CS COURSES\CS 540\SDSU CS 540 SPRING 2016\CS 540 MISC TO FILE\CS 540 XMISC TO FILE\CS 540 HINTS number formats\obj\Debug\number formatting example.vbproj.GenerateResource.Cache
+C:\Users\Bill\Desktop\CS 540 HW6 EXAMPLE 1\obj\Debug\number formatting example.exe
+C:\Users\Bill\Desktop\CS 540 HW6 EXAMPLE 1\obj\Debug\number formatting example.xml
+C:\Users\Bill\Desktop\CS 540 HW6 EXAMPLE 1\obj\Debug\number formatting example.pdb
+C:\Users\Bill\Desktop\CS 540 HW6 EXAMPLE 1\bin\number formatting example.exe
+C:\Users\Bill\Desktop\CS 540 HW6 EXAMPLE 1\bin\number formatting example.pdb
+C:\Users\Bill\Desktop\CS 540 HW6 EXAMPLE 1\bin\number formatting example.xml
+C:\Users\Bill\Desktop\CS 540 HW6 EXAMPLE 1\obj\Debug\number formatting example.vbprojResolveAssemblyReference.cache
+C:\Users\Bill\Desktop\CS 540 HW6 EXAMPLE 1\obj\Debug\number_formatting_example.Form1.resources
+C:\Users\Bill\Desktop\CS 540 HW6 EXAMPLE 1\obj\Debug\number formatting example.vbproj.GenerateResource.Cache
+C:\Users\student\Desktop\CS 540 HW6 EXAMPLE 1\obj\Debug\number formatting example.exe
+C:\Users\student\Desktop\CS 540 HW6 EXAMPLE 1\obj\Debug\number formatting example.xml
+C:\Users\student\Desktop\CS 540 HW6 EXAMPLE 1\obj\Debug\number formatting example.pdb
+C:\Users\student\Desktop\CS 540 HW6 EXAMPLE 1\bin\number formatting example.exe
+C:\Users\student\Desktop\CS 540 HW6 EXAMPLE 1\bin\number formatting example.pdb
+C:\Users\student\Desktop\CS 540 HW6 EXAMPLE 1\bin\number formatting example.xml
+C:\Users\student\Desktop\CS 540 HW6 EXAMPLE 1\obj\Debug\number formatting example.vbprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\CS 540 HW6 EXAMPLE 1\obj\Debug\number_formatting_example.Form1.resources
+C:\Users\student\Desktop\CS 540 HW6 EXAMPLE 1\obj\Debug\number_formatting_example.Resources.resources
+C:\Users\student\Desktop\CS 540 HW6 EXAMPLE 1\obj\Debug\number formatting example.vbproj.GenerateResource.Cache
+C:\Users\anas\Desktop\CS540\cs560\cs560\CS 540 HW6 EXAMPLE 1\bin\number formatting example.exe
+C:\Users\anas\Desktop\CS540\cs560\cs560\CS 540 HW6 EXAMPLE 1\bin\number formatting example.pdb
+C:\Users\anas\Desktop\CS540\cs560\cs560\CS 540 HW6 EXAMPLE 1\bin\number formatting example.xml
+C:\Users\anas\Desktop\CS540\cs560\cs560\CS 540 HW6 EXAMPLE 1\obj\Debug\number formatting example.vbprojResolveAssemblyReference.cache
+C:\Users\anas\Desktop\CS540\cs560\cs560\CS 540 HW6 EXAMPLE 1\obj\Debug\number_formatting_example.Form1.resources
+C:\Users\anas\Desktop\CS540\cs560\cs560\CS 540 HW6 EXAMPLE 1\obj\Debug\number_formatting_example.Resources.resources
+C:\Users\anas\Desktop\CS540\cs560\cs560\CS 540 HW6 EXAMPLE 1\obj\Debug\number formatting example.vbproj.GenerateResource.Cache
+C:\Users\anas\Desktop\CS540\cs560\cs560\CS 540 HW6 EXAMPLE 1\obj\Debug\number formatting example.exe
+C:\Users\anas\Desktop\CS540\cs560\cs560\CS 540 HW6 EXAMPLE 1\obj\Debug\number formatting example.xml
+C:\Users\anas\Desktop\CS540\cs560\cs560\CS 540 HW6 EXAMPLE 1\obj\Debug\number formatting example.pdb

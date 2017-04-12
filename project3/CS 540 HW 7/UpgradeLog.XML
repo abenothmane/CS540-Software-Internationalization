@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="sort order example">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\William Root\Desktop\sort order example\sort order example.sln">
+</Property><Property Name="Date" Value="Tuesday, October 19, 2010">
+</Property><Property Name="Time" Value="16:42 PM">
+</Property></Properties><Event ErrorLevel="0" Project="sort order example" Source="sort order example.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="sort order example" Source="sort order example.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="sort order example.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="sort order example.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="sort order example" Source="sort order example.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

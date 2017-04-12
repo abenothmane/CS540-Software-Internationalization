@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HW1022
+</name>
+</assembly>
+<members>
+<member name="T:HW1022.Homework_10.Form1">
+ <summary>
+ Summary description for Form1.
+ </summary>
+</member>
+<member name="P:HW1022.Homework_10.Form1.CreateParams">
+ <summary>
+ System override for application of mirroring property
+ </summary>
+</member>
+<member name="M:HW1022.Homework_10.Form1.#ctor">
+ <summary>
+ Form1 constructor
+ </summary>
+</member>
+<member name="M:HW1022.Homework_10.Form1.Dispose(System.Boolean)">
+ <summary>
+ Clean up any resources being used.
+ </summary>
+</member>
+<member name="M:HW1022.Homework_10.Form1.Flag_Click(System.Object,System.EventArgs)">
+ <summary>
+ Generic event handler for click event on all flag images
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="T:HW1022.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:HW1022.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:HW1022.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>
